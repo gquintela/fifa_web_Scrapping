@@ -6,7 +6,6 @@ how to run...
 <h2>Arguments:</h2>
 
 <ol>
-  <li>main.py </li>
   <li>url of player (futwiz) </li>
   <li>target price to send mail</li>
   <li>google username (without @...)</li>

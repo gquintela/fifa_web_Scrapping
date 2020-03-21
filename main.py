@@ -4,11 +4,11 @@ import time
 ###
 # arguments:
 
-# 1) main.py
-# 2) url of player (futwiz)
-# 3) target price to send mail
-# 4) google username (without @...)
-# 5) password
+# 1) url of player (futwiz)
+# 2) target price to send mail
+# 3) google username (without @...)
+# 4) password
+# 5) mail to...
 
 ###
 
